@@ -41,5 +41,12 @@ body {
   font-size: 50px;
   font-weight: bolder;
   width: 100%;
+  color: lightgray;
+  text-align: center;
+}
+.rate {
+  font-size: 50px;
+  font-weight: bolder;
+  width: 100%;
   text-align: center;
 }
