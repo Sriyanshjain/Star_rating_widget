@@ -26,12 +26,14 @@ body {
   content: "\f006";
   color: #5f6368;
   font-size: 80px;
+  cursor: pointer;
 }
 
 .fa-star:before {
   content: "\f005";
   color: #d56e0c;
   font-size: 80px;
+  cursor: pointer;
 }
 #star {
   width: 100%;
